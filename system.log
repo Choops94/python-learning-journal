@@ -1,0 +1,6 @@
+2024-01-10 INFO: System started
+2024-01-10 ERROR: Database connection failed
+2024-01-10 INFO: Retrying connection
+2024-01-10 ERROR: Disk space low
+2024-01-10 INFO: User logged in
+2024-01-10 ERROR: File not found
