@@ -46,8 +46,8 @@ while True:
 			break
 		else:
 
-		#Convert to float
-		it = float(input_temp)
-		ih = float(input_humid)
+			#Convert to float
+			it = float(input_temp)
+			ih = float(input_humid)
 
-		log_reading(it, ih)
+			log_reading(it, ih)
